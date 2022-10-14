@@ -1,0 +1,27 @@
+.tweet{
+    border: 2px solid red;
+    border-radius: 5%;
+    background-color: aqua;
+    width: fit-content;
+    min-width: 250px;
+    padding: 6px;
+}
+
+.tweet__content{
+    margin-left: 20px;
+}
+
+.like{
+    cursor: pointer;
+}
+
+.delete{
+    /* position: absolute;
+    right: 0;
+    top: 0; */
+    margin-left: 190px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    /* margin-left: 70px; */
+}
